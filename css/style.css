@@ -1,0 +1,32 @@
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2018/05/31/13/13/rain-3443977_1280.jpg");
+  background-size: auto 100vh;
+  font-family: Verdana;
+  height: 100vh
+}
+.menu {
+  background-color: #363636;
+}
+.menu li {
+  list-style: none;
+}
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+a {
+  text-decoration: none;
+  color: #71DAA0;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title {
+  color: whitesmoke;
+  text-align: center;
+}
+.site-subtitle{
+  
+}
